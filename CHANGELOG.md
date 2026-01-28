@@ -13,3 +13,4 @@
 - 2026-01-27 docs
 - 2026-01-27 spacing scale
 - 2026-01-28 dark mode
+- 2026-01-28 spacing scale
