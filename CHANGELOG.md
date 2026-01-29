@@ -18,3 +18,4 @@
 - 2026-01-29 token set
 - 2026-01-29 state variants
 - 2026-01-29 spacing scale
+- 2026-01-29 cleanup
