@@ -21,3 +21,4 @@
 - 2026-01-29 cleanup
 - 2026-01-30 component pass
 - 2026-01-30 component pass
+- 2026-01-30 docs
