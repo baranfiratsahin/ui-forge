@@ -30,3 +30,4 @@
 - 2026-02-02 spacing scale
 - 2026-02-04 docs
 - 2026-02-04 state variants
+- 2026-02-04 component pass
