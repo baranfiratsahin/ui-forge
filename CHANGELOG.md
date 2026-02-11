@@ -37,3 +37,4 @@
 - 2026-02-10 state variants
 - 2026-02-10 component pass
 - 2026-02-12 docs
+- 2026-02-12 dark mode
