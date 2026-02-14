@@ -40,3 +40,4 @@
 - 2026-02-12 dark mode
 - 2026-02-12 docs
 - 2026-02-12 component pass
+- 2026-02-14 spacing scale
