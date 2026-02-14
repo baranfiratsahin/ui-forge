@@ -41,3 +41,4 @@
 - 2026-02-12 docs
 - 2026-02-12 component pass
 - 2026-02-14 spacing scale
+- 2026-02-14 cleanup
