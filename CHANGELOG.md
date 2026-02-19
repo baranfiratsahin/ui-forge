@@ -45,3 +45,4 @@
 - 2026-02-16 docs
 - 2026-02-18 dark mode
 - 2026-02-19 token set
+- 2026-02-19 spacing scale
