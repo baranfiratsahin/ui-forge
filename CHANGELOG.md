@@ -50,3 +50,4 @@
 - 2026-02-20 docs
 - 2026-02-21 state variants
 - 2026-02-21 state variants
+- 2026-02-23 component pass
