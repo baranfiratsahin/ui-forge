@@ -54,3 +54,4 @@
 - 2026-02-24 spacing scale
 - 2026-02-24 state variants
 - 2026-02-25 spacing scale
+- 2026-02-25 docs
