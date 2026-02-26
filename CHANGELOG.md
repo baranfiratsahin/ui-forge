@@ -56,3 +56,4 @@
 - 2026-02-25 spacing scale
 - 2026-02-25 docs
 - 2026-02-25 token set
+- 2026-02-26 spacing scale
