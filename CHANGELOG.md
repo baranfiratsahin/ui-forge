@@ -59,3 +59,4 @@
 - 2026-02-26 spacing scale
 - 2026-02-26 token set
 - 2026-02-27 docs
+- 2026-02-27 state variants
