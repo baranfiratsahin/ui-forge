@@ -61,3 +61,4 @@
 - 2026-02-27 docs
 - 2026-02-27 state variants
 - 2026-02-27 dark mode
+- 2026-02-27 cleanup
