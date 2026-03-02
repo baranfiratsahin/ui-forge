@@ -64,3 +64,4 @@
 - 2026-02-27 cleanup
 - 2026-03-02 token set
 - 2026-03-02 state variants
+- 2026-03-02 component pass
