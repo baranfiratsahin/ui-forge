@@ -69,3 +69,4 @@
 - 2026-03-04 spacing scale
 - 2026-03-05 token set
 - 2026-03-05 dark mode
+- 2026-03-06 component pass
