@@ -71,3 +71,4 @@
 - 2026-03-05 dark mode
 - 2026-03-06 component pass
 - 2026-03-08 dark mode
+- 2026-03-08 cleanup
