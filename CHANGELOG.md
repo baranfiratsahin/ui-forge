@@ -79,3 +79,4 @@
 - 2026-03-10 dark mode
 - 2026-03-10 spacing scale
 - 2026-03-10 cleanup
+- 2026-03-10 component pass
